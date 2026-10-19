@@ -25,7 +25,7 @@ Cada script se encarga de cargar el archivo CSV, aislar los códigos postales, e
 ## VS
 1. Descarga la carpeta completa a tu computadora.
 Abre Visual Studio Code.
-2. Ve a Archivo > Abrir carpeta y selecciona la 3.carpeta del proyecto.
+2. Ve a Archivo > Abrir carpeta y selecciona la 3ra carpeta del proyecto.
 3. Abre la terminal con Ctrl + ñ.
 4. Escribe: python estructuras_de_datos_parcial_3.py en la terminal y presiona enter
 
